@@ -1,5 +1,7 @@
 
 # Teste
 
-Este readme representa apenas um teste, a fim de aprimorar meus conhecimentos no uso de Git e Github.
+Este repositório está sendo testado
 
+## Texto 2
+Teste
