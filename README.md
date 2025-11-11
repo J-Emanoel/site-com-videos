@@ -1,8 +1,6 @@
 
-# Teste
+# Confira a versão final neste link.
 
-Este repositório está sendo testado
+[SiteV2](https://j-emanoel.github.io/repo-remoto/)
 
-## Texto 2
-Teste
 
